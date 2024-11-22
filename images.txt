@@ -1,11 +1,11 @@
 alpine
-linuxseryer/radarr
+linuxserver/radarr
 superng6/qbittorrentee
 linuxserver/syncthing
 linuxserver/heimdall
 jellyfin/jellyfin
 vaultwarden/server
-linuxseryer/sonarr
+linuxserver/sonarr
 linuxserver/prowlarr
 jlesage/firefox
 fallenbagel/jellyseerr
