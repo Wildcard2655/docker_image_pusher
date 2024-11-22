@@ -1,2 +1,17 @@
 alpine
+linuxseryer/radarr
+superng6/qbittorrentee
+linuxserver/syncthing
+linuxserver/heimdall
 jellyfin/jellyfin
+vaultwarden/server
+linuxseryer/sonarr
+linuxserver/prowlarr
+jlesage/firefox
+fallenbagel/jellyseerr
+ankicommunity/anki-sync-server-rs
+dzhuang/tinymediamanager
+adolfintel/speedtest
+luodaoyi/kms-server
+allanpk716/chinesesubfinder
+messense/aliyundrive-webdav
