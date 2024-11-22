@@ -1,8 +1,1 @@
-adolfintel/speedtest
-allanpk716/chinesesubfindel
-ankicommunity/anki-sync-server-rs
-containrrr/watchtower
-dzhuang/tinymediamanager
-fallenbagel/jellyseerr
 jellyfin/jellyfin
-jlesage/firefox
