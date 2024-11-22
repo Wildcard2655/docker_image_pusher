@@ -15,3 +15,4 @@ adolfintel/speedtest
 luodaoyi/kms-server
 allanpk716/chinesesubfinder
 messense/aliyundrive-webdav
+containrrr/watchtower
